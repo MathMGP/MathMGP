@@ -8,6 +8,7 @@ Most of these started as *"I can't keep doing this by hand"* moments at work.
 | PDF too large for a government upload portal | [pdf-compressor](https://github.com/MathMGP/pdf-compressor) — system tray app, drag and done in seconds |
 | Small business drowning in 15 spreadsheet tabs | [parking-pwa](https://github.com/MathMGP/parking-pwa) — offline PWA, single HTML file, no backend, installable on iOS/Android |
 | Claude Code losing context in the middle of a long task | [claude-agent-pipeline](https://github.com/MathMGP/claude-agent-pipeline) — 4-agent pipeline that resumes exactly where it stopped |
+| Controlling a PC remotely without exposing any ports | [telegram-pc-control](https://github.com/MathMGP/telegram-pc-control) — full Windows remote control via Telegram over Tailscale |
 | Consolidating product quantities from hundreds of NF-e XML files | [nfe-products-extractor](https://github.com/MathMGP/nfe-products-extractor) — reads XML per contract folder, outputs formatted Excel |
 
 ---
